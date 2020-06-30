@@ -3,3 +3,4 @@ jupyter==1.0.0
 matplotlib==3.2.2
 seaborn
 pandas
+xlrd
